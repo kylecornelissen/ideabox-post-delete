@@ -9,7 +9,7 @@
 ### Setup
 1. Clone [this repo](https://github.com/turingschool-examples/network-request-exercises) for the local api
 1. Run `npm i` in the api's directory
-1. Run `npm start` to boot up the api
+1. Run `npm start` to boot up the api at [http://localhost:3001](http://localhost:3001/)
 1. Clone this repo and open in editor
 1. Run `npm i` in the project repo's local directory
 1. Run `npm start` to view it in the browser at [http://localhost:3000](http://localhost:3000/)

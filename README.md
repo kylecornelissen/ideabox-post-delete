@@ -3,7 +3,7 @@
 ### Learning Goals
 - Get some more Ideabox/React experience
 - Practicing network requests
-- Learning to pass options argument in post/delete fetch calls
+- Pass options argument in post/delete fetch calls
 - Practice w/ Postman
 
 ### Setup

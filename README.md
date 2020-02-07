@@ -1,5 +1,4 @@
-## IdeaBox!
-### (Featuring Post and Delete Fetch Calls)
+## IdeaBox! ### (Featuring Post and Delete Fetch Calls)
 
 ### Setup
 1. Clone this repo and open in editor.

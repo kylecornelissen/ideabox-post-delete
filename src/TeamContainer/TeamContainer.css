@@ -1,10 +1,27 @@
 .team {
   background: #F7DD50;
   border: 2px solid #53617A;
+  border-radius: 10px;
   color: #A16AFE;
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin: 1% 20%;
   text-align: center;
+}
+
+.delete-btn {
+  background: #53617A;
+  border: 2px solid #A16AFE;
+  color: white;
+  font-size: 30px;
+  margin: 2% 14%;
+  padding: 2%;
+}
+
+.delete-btn:hover {
+  background: #A16AFE;
+  border: 2px solid #53617A;
+  color: #F7DD50;
+  transition: ease .4s;
 }

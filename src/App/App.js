@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import TeamContainer from '../TeamContainer/TeamContainer.js';
 import Form from '../Form/Form.js';
+import './App.css';
 
 class App extends Component {
   constructor() {

@@ -17,7 +17,7 @@ label {
 
 input {
   border: none;
-  padding: 1% 0%;
+  padding: 1% 0% 1% 1%;
   font-size: 25px;
 }
 
@@ -28,4 +28,11 @@ input {
   font-size: 30px;
   margin: 2% 0%;
   padding: 2%;
+}
+
+.submit-btn:hover {
+  background: #F7DD50;
+  border: 2px solid #53617A;
+  color: #A16AFE;
+  transition: ease .4s;
 }

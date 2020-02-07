@@ -12,3 +12,12 @@ export const postOptions = (data) => {
     }
   }
 };
+
+export const deleteOptions = () => {
+  return {
+    method: 'DELETE',
+    headers: {
+      'Content-Type': 'application/json'
+    }
+  }
+};

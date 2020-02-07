@@ -1,0 +1,10 @@
+.team {
+  background: #F7DD50;
+  border: 2px solid #53617A;
+  color: #A16AFE;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 1% 20%;
+  text-align: center;
+}
